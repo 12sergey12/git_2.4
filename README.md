@@ -39,15 +39,15 @@
 
 * Найдите коммит, в котором была создана функция `func providerSource`, её определение в коде выглядит так: `func providerSource(...)` (вместо троеточия перечислены аргументы).
 
-[monitoring](https://github.com/12sergey12/git_2.4/blob/main/images/vop.5.png)
+![monitoring](https://github.com/12sergey12/git_2.4/blob/main/images/vop.5.png)
 
 * Найдите все коммиты, в которых была изменена функция `globalPluginDirs`.
 
-[monitoring](https://github.com/12sergey12/git_2.4/blob/main/images/v.6.png)
+![monitoring](https://github.com/12sergey12/git_2.4/blob/main/images/v.6.png)
 
 * Кто автор функции `synchronizedWriters`? 
 
-[monitoring](https://github.com/12sergey12/git_2.4/blob/main/images/v.7.png)
+![monitoring](https://github.com/12sergey12/git_2.4/blob/main/images/v.7.png)
 
 *В качестве решения ответьте на вопросы и опишите, как были получены эти ответы.*
 
